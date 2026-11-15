@@ -16,7 +16,7 @@ Just do whateaver you want! Physics are cool, and so is webgpu.
 
 - **Water Simulation** – As of now (26/11/15) it looks like jelly, im working on improving it and it looks pretty good now!
 
-- **Volumetrics** – Make smoke, fire and big explosions. They look really nice, the smoke is incredible.
+- **Volumetrics** – Create smoke, fire and big explosions. They look really nice, the smoke is incredible. I should work on the fire textures though..
 
 - **Object Spawning** – Spawn objects, for you know, messing around with webgpu..
 
