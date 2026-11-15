@@ -40,7 +40,7 @@ MAWW needs a browser that supports WebGPU. (almost all chromium browsers support
 
 ## Development
 
-MAWW is a project that is still being worked on. Features, simulations and how well it works can change, as more development happens. (just started this as of 2026-11-14, plenty of bugs left to fix as of now..)
+MAWW is a project that is still being worked on. Features, simulations and how well it works can change, as more development happens. (just started this as of 2026-11-13, plenty of bugs left to fix as of now..)
 
 Enjoy playing with it.
 
