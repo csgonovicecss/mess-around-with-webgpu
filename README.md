@@ -6,7 +6,7 @@ A browser-based physics sandbox made completely using HTML, JavaScript and WebGP
 
 MAWW (Mess With WebGPU) is pretty much what the name says: a place to play with physics try out simulations create random objects and watch what happens.
 
-Just do whateaver you want! Physics are cool, so is webgpu.
+Just do whateaver you want! Physics are cool, and so is webgpu.
 
 ## Features
 
