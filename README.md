@@ -8,15 +8,15 @@ Just do whateaver you want! Physics are cool, so is webgpu.
 
 ## Features
 
-- **Soft Bodies** – Create objects that can change shape and respond to what's around them.
+- **Soft Bodies** – Spawn jelly/deformable objects, pretty cool, but really performance heavy.
 
-- **Cloth Simulation** – Try out cloth!
+- **Cloth Simulation** – It looks nice! But as of now (26/11/15) the particle blending mechanism causes the cloth to look really bland.. Ill work on that.
 
-- **Water Simulation** – Have fun with water. How it moves and interacts.
+- **Water Simulation** – As of now (26/11/15) it looks like jelly, im working on improving it and it looks pretty good now!
 
-- **Volumetrics** – Make smoke, fire and big explosions.
+- **Volumetrics** – Make smoke, fire and big explosions. They look really nice, the smoke is incredible.
 
-- **Object Spawning** – Put objects in and see how they work together.
+- **Object Spawning** – Spawn objects, for you know, messing around with webgpu..
 
 - **WebGPU Rendering** – Uses the graphics features from the browser through WebGPU.
 
