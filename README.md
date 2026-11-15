@@ -1,5 +1,7 @@
 # MAWW. Mess Around With WebGPU
 
+<a href="https://csgonovicecss.github.io/mess-around-with-webgpu/" target="_blank"><button>GitHub Page</button></a>
+
 A browser-based physics sandbox made completely using HTML, JavaScript and WebGPU.
 
 MAWW (Mess With WebGPU) is pretty much what the name says: a place to play with physics try out simulations create random objects and watch what happens.
